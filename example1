@@ -1,0 +1,7 @@
+c	example where half-integrality helps 
+p	min 2	3
+n	1	0
+n	2	0
+a	1	-1	0	100	1
+a	2	-2	0	100	1
+a	-1	2	1	100	1
