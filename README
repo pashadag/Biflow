@@ -21,7 +21,7 @@ all nodes (1..n) must have an "n" line, and all "n" lines must come before the "
 Non-zero balance means the node is either a source or a sink.  
 The low,cap,cost parameters are optional (but if one is included then all must be), and they represent constraints on the node.
 
-"a SRC DST LOW CAP COST" is the arc description line.
+"a src dst low cap cost" is the arc description line.
 one line per arc
 cost is an integer (non-negative??? not sure...)
 The arcs can go from negative vertices to encode bidirectionality
